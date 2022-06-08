@@ -3,6 +3,15 @@ KITTY
 =====
 The lightweight HTTP server on C
 
+BUILDING
+--------
+Build Kitty with running make
+
+RUNNING
+-------
+Defaultly, built binary is located in directory bin and it's name is server.
+Binary takes only one argument - port. Default port is 8000.
+
 ROUTES
 ------
 Routes are added in function void route() from file router.c
@@ -25,3 +34,11 @@ POST("/test") {
 
 Please note, that printf function is used to send info to client.
 Use fprintf for logging.
+
+LICENSE
+-------
+Kitty is licensed with MIT. 
+
+CREDITS
+-------
+github.com/foxweb/pico
