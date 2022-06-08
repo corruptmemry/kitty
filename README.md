@@ -1,9 +1,4 @@
-<html>
-    <head>
-        <title>Kitty</title>
-    </head>
-    <body>
-        <pre>
+
 KITTY
 =====
 The lightweight HTTP server on C
@@ -32,6 +27,3 @@ POST("/test") {
 
 Please note, that printf function is used to send info to client.
 Use fprintf for logging.
-        </pre>
-    </body>
-</html>
