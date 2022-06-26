@@ -3,11 +3,6 @@ KITTY
 =====
 The lightweight HTTP server on C
 
-VIEW IN WORK
-------------
-laem.fun - free url shortener and file hosting by corruptmemory
-is working on Kitty. 
-
 BUILDING
 --------
 Build Kitty with running make
